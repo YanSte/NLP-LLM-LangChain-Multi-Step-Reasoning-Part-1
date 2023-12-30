@@ -1,4 +1,4 @@
-# | NLP | LLM | LangChain | Multi-stage Reasoning |
+# | NLP | LLM | LangChain | Multi-Step Reasoning 1 |
 
 ## Natural Language Processing (NLP) and Large Language Models (LLM) with LangChain and Building Multi-stage Reasoning Systems
 
